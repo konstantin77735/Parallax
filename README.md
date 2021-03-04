@@ -1,7 +1,9 @@
-# simple-parallax
+# Parallax
 
-Simple scroll parallax effect on native JS (without libraries and dependencies)
-  
+Параллакс эффект. Его видно при прокрутке страницы.
+
+Parallax effect. Visible when scrolling the page.
+
 Initialization Example: 
  
 ``` 
