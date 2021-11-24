@@ -14,6 +14,8 @@ class Parallax {
 
             let posY = document.documentElement.scrollTop / this.coeff; //crollTop измеряет дистанцию от верха элемента до верхней точки видимого контента. Когда контент элемента не создаёт вертикальную прокрутку, его scrollTop = 0.
             this.img.style.top = `${-posY}px`;
+            
+            console.log(posY)
 
         });
 
